@@ -1,6 +1,6 @@
 # 🚀 Problem of the Week (POW)
 
-“Consistency beats intensity. Let your GitHub speak for your growth.”
+## Consistency beats intensity. Let your GitHub speak for your growth.
 
 ---
 
@@ -31,13 +31,11 @@ Each week, I’ll be solving 2–3 carefully selected coding problems that focus
 
  ---
 
- # Each week folder contains:
+ ## 📁 Each week folder contains:
 
 🖋 Code file(s) (with multiple solution approaches if possible)
 
----
-
-# 📄 README.md explaining:
+## 📄 README.md explaining:
 
 - Problem statement (short)
 
@@ -49,7 +47,7 @@ Each week, I’ll be solving 2–3 carefully selected coding problems that focus
 
 ---
 
-# 🛠 How I Solve Problems
+## 🛠 How I Solve Problems
 
 - Understand the Problem – Read carefully, identify inputs/outputs.
 
@@ -61,14 +59,12 @@ Each week, I’ll be solving 2–3 carefully selected coding problems that focus
 
 - Refactor – Clean code, better variable names, comments.
 
-  ---
+---
 
-# 📈 Goal
+## 📈 Goal
 
 To build a consistent coding habit, improve problem-solving under pressure, and make my GitHub a portfolio of growth.
 
----
-
-# ✍️ Let’s code smart, not just hard! 💡
+## ✍️ Let’s code smart, not just hard! 💡
 
 ---
