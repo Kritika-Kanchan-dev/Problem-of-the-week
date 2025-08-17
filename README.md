@@ -16,8 +16,8 @@ Each week, I’ll be solving 2–3 carefully selected coding problems that focus
 
 - ✅ Core Data Structures & Algorithms (DSA) concepts
 
-# 📂 Repository Structure
-'''
+## 📂 Repository Structure
+
 📦 Problem-of-the-Week  
  ┣ 📂 Week-1  
  ┃ ┣ 📜 Problem1.cpp / Problem1.py / Problem1.java  
@@ -28,7 +28,6 @@ Each week, I’ll be solving 2–3 carefully selected coding problems that focus
  ┃ ┣ 📜 Problem2.cpp  
  ┃ ┗ 📜 README.md  
  ┗ 📜 README.md (this file)
- '''
 
  ---
 
